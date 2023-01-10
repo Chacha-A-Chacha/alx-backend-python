@@ -1,4 +1,4 @@
-# 0x01. Python - Async
+#  0x01. Python - Async
 
 ## Resources
 ### Read or watch:
@@ -26,6 +26,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 4. Tasks
 
 ## Software engineer
-Chacha Alex Chacha  
+Chacha Alex Chacha
 :octocat: [GitHub](https://github.com/Chacha-A-Chacha/)
-# Python async
